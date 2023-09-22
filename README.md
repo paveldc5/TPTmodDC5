@@ -1,3 +1,7 @@
+Windows Preparation
+===========================================================================
+https://powdertoy.co.uk/Wiki/W/Building_TPT_with_Meson.html#Compiling_for_Windows
+
 Linux Preparation
 ===========================================================================
 https://powdertoy.co.uk/Wiki/W/Building_TPT_with_Meson.html#Compiling_for_Linux
