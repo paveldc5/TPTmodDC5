@@ -1,3 +1,5 @@
+https://powdertoy.co.uk/Wiki/W/Building_TPT_with_Meson.html#Compiling_for_Linux
+https://powdertoy.co.uk/Wiki/W/Building_TPT_with_Meson.html#Next_steps_.28all_platforms.29
 
 Instructions
 ===========================================================================
